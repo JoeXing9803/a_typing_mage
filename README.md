@@ -1,7 +1,5 @@
 # Spellfire: a typing mage
 
-> **New:** the next game, **Type Spell**, is in [`type_spell/`](type_spell/README.md). Spellfire below is the earlier prototype.
-
 A browser typing game. Enemies march along a winding path toward your mage, and you stop them by typing fire spells. Type fast and cleanly to build a combo, unlock rarer spells, and multiply your score.
 
 ## How to play
